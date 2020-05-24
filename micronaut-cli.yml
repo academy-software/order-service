@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: dev.softwareacademy
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, docker, gradle, h2, http-client, java, java-application, jdbc-hikari, junit, netty-server, properties, readme, shade]
