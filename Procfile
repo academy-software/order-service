@@ -1,1 +1,1 @@
-web: java -jar build/libs/order-service*.jar
+web: java -javaagent:/app/newrelic/newrelic.jar -jar build/libs/order-service*.jar
