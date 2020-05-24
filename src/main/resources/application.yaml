@@ -21,3 +21,8 @@ datasources:
     connectionTimeout: 100000
     poolName: order-service-hikari-connection-pool
     maximumPoolSize: 100
+
+endpoints:
+  metrics:
+    enabled: true
+    sensitive: false
